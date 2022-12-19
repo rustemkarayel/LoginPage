@@ -8,4 +8,7 @@ Ardından tam genişlikte bir giriş düğmesi yapıldı.
 
 Ayrıca şifre bilgisini unutanlar için parolanızı mı unuttunuz seçeneği eklendi.
 
-# LoginPage![LoginPage](https://user-images.githubusercontent.com/109968031/208503967-161a6563-ba8b-45ab-81b3-d65188878c84.PNG)
+# LoginPage
+![LoginPage](https://user-images.githubusercontent.com/109968031/208503967-161a6563-ba8b-45ab-81b3-d65188878c84.PNG)
+
+
